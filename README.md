@@ -1,8 +1,5 @@
-# GOLFML
+# GOLFML-JSON
 
 ## Why another GOLFML repository.
 
-I've created this repository as it looks like the original GOLFML has been abandoned. My goal is to take the original golfml spec and
-convert it into json data. The reason for this is json has become the prefered data interchange format that is being used on the web. 
-
-json format makes for easier data exchange via api. 
+This repo was designed to be a complete re-write of the original GOLFML specification. The intent is to change the format over to JSON data-interchange format. JSON has become more and more popular around the web and having the GOLFML spec converted over to JSON will make intergration of its data accross different web apps much easier.
